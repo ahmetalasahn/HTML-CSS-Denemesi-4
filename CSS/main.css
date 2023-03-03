@@ -1,0 +1,241 @@
+.aa
+{
+    position: absolute;
+    width: 100%;
+    height: 185px;
+    left: 0px;
+    top: 0px;
+    background: #63CC6D;
+    border-radius: 0px 0px 55px 55px;
+    text-align: center;
+}
+.h1
+{
+    color: #333;
+    padding-top: 15px;
+}
+.a1
+{
+    text-decoration: none;
+    color: white;
+    padding-left: 55px;
+    position: relative;
+    top: 50px;
+    left: -125px;
+    border: 1px solid #333;
+    padding-right: 55px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #333;
+    border-radius: 15px;
+}
+.a1:hover
+{
+    background-color: #63CC6D;
+    color: white;
+}
+.a2
+{
+    text-decoration: none;
+    color: white;
+    padding-left: 55px;
+    position: relative;
+    top: 50px;
+    left: -75px;
+}
+.a3
+{
+    text-decoration: none;
+    color: white;
+    padding-left: 55px;
+    position: relative;
+    top: 50px;
+    left: -25px;
+}
+.a4
+{
+    text-decoration: none;
+    color: white;
+    padding-left: 55px;
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+.ab
+{
+    position: absolute;
+    width: 658px;
+    height: 346px;
+    left: 600px;
+    top: 309px;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+.p1
+{
+    position: relative;
+    left: 45px;
+    top: 25px;
+    width: 232px;
+    height: 342px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    float: left;
+}
+.ab
+{
+    display: flex;
+}
+.ims
+{
+    position: relative;
+    left: 250px;
+    top: -50px;
+}
+.ac
+{
+    position: absolute;
+    width: 1150px;
+    height: 464px;
+    left: 350px;
+    top: 835px;
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+.me
+{
+    position: relative;
+    left: 150px;
+    top: 75px;
+    border-radius: 50%;
+    width: 182px;
+    height: 188px;
+}
+.h2
+{
+    position: relative;
+    top: 65px;
+    left: 150px;
+}
+.h2p
+{
+    position: relative;
+    top: 75px;
+    left: 60px;
+}
+.h22p
+{
+    position: relative;
+    width: 370px;
+    height: 266px;
+    left: 650px;
+    top: -150px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #000000;
+}
+.ad
+{
+    position: absolute;
+    width: 1150px;
+    height: 464px;
+    left: 350px;
+    top: 1535px;
+    background: #FFFFFF;
+    border-radius: 15px;   
+}
+.porth2
+{
+    position: relative;
+    top: 155px;
+    text-align: center;
+}
+.portp
+{
+    position: relative;
+    top: 160px;
+    text-align: center;
+}
+.ae
+{
+    position: absolute;
+    width: 592px;
+    height: 658px;
+    left: 634px;
+    top: 2184px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+.contactp
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+
+    text-align: center;
+}
+.input1
+{
+    position: relative;
+    top: 55px;
+    left: 70px;
+    width: 434px;
+    height: 65px;
+}
+.submit
+{
+    position: relative;
+    top: 120px;
+    left: 70px;
+    border: 1px solid #63CC6D;
+    background-color: #63CC6D;
+    color: #000000;
+    text-decoration: none;
+    padding: 25px;
+    padding-left: 195px;
+    padding-right: 195px;
+    border-radius: 15px;
+}
+.submit:hover
+{
+    background-color: #FFFFFF;
+}
+.footerd
+{
+    position: absolute;
+    width: 100%;
+    height: 38px;
+    left: 0px;
+    top: 3027px;
+
+    background: #FFFFFF;
+    border-radius: 15px 15px 0px 0px;
+}
+.footerp
+{
+    font-weight: bold;
+    position: relative;
+    top: -11px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #000000;
+}
